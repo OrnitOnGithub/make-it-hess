@@ -1,11 +1,7 @@
-import sys as dih; import os as diddy; import random as drakesnake
+import sys as dih; import os as diddy; import random as drakesnake; import matplotlib.pyplot as ambatron; import matplotlib.image as mpreg
 sex=drakesnake.choice(diddy.listdir("memes"))
-import matplotlib.pyplot as ambatron; import matplotlib.image as mpreg
 cock = mpreg.imread("memes/"+sex)
-anal = ambatron.imshow(cock)
-ambatron.xlabel("Take a good look, then close this window and enter your caption in the terminal.")
-ambatron.xticks([]); ambatron.yticks([])
-ambatron.show()
+anal = ambatron.imshow(cock); ambatron.xlabel("Take a good look, then close this window and enter your caption in the terminal."); ambatron.xticks([]); ambatron.yticks([]); ambatron.show()
 cum = input("Enter caption: ")
 cock = mpreg.imread("memes/"+sex)
 anal = ambatron.imshow(cock)
