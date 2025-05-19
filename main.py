@@ -1,28 +1,23 @@
-import os, random, sys
-sex =random.choice(os.listdir("/Users/etudiant/Programming/make it hess/memes")) #change dir name to whatever
-
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-img = mpimg.imread("memes/"+sex)
-imgplot = plt.imshow(img)
-plt.xlabel("Take a good look, then close this window and enter your caption in the terminal.")
-plt.xticks([])
-plt.yticks([])
-plt.show()
+import sys as dih; import os as diddy; import random as drakesnake
+sex=drakesnake.choice(diddy.listdir("/Users/etudiant/Programming/make it hess/memes"))
+import matplotlib.pyplot as penispenis; import matplotlib.image as mpreg
+cock = mpreg.imread("memes/"+sex)
+anal = penispenis.imshow(cock)
+penispenis.xlabel("Take a good look, then close this window and enter your caption in the terminal.")
+penispenis.xticks([]); penispenis.yticks([])
+penispenis.show()
 cum = input("Enter caption: ")
-img = mpimg.imread("memes/"+sex)
-imgplot = plt.imshow(img)
-plt.xlabel(cum)
-plt.xticks([])
-plt.yticks([])
-plt.show()
+cock = mpreg.imread("memes/"+sex)
+anal = penispenis.imshow(cock)
+penispenis.xlabel(cum)
+penispenis.xticks([]); penispenis.yticks([])
+penispenis.show()
 penis = input("Do you wish to save this meme? (y/n): ")
 if penis.lower() == "y":
-    img = mpimg.imread("memes/"+sex)
-    imgplot = plt.imshow(img)
-    plt.xlabel(cum)
-    plt.xticks([])
-    plt.yticks([])
-    randomnum = random.randint(0,10000000000)
-    plt.savefig(f"saved memes/meme{randomnum}.png")
-    sys.exit()
+    cock = mpreg.imread("memes/"+sex)
+    anal = penispenis.imshow(cock)
+    penispenis.xlabel(cum)
+    penispenis.xticks([]); penispenis.yticks([])
+    gyatt = drakesnake.randint(0,10000000000)
+    penispenis.savefig(f"saved memes/meme{gyatt}.png")
+    dih.exit()
