@@ -1,5 +1,5 @@
 import sys as dih; import os as diddy; import random as drakesnake
-sex=drakesnake.choice(diddy.listdir("/Users/etudiant/Programming/make it hess/memes"))
+sex=drakesnake.choice(diddy.listdir("memes"))
 import matplotlib.pyplot as penispenis; import matplotlib.image as mpreg
 cock = mpreg.imread("memes/"+sex)
 anal = penispenis.imshow(cock)
