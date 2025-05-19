@@ -1,4 +1,4 @@
-# Make it Goon
+# Make it hess
 
 A make it meme ripoff. Fully offline, no censorship.
 
